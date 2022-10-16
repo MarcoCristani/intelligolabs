@@ -15,4 +15,6 @@ hero_media: welcome.jpg
 ---
 <br>
 
+![](icon.png)
+
 **INTELLIGO labs** is a set of labs related to the development of *intelligent systems*
