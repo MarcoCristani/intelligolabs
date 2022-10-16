@@ -4,7 +4,7 @@ widget_id: home
 headless: true
 weight: 10
 title: INTELLIGO labs
-active: false
+active: true
 design:
   columns: "1"
   css_style: null
