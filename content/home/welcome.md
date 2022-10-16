@@ -4,14 +4,17 @@ widget_id: home
 headless: true
 weight: 10
 title: INTELLIGO labs
-hero_media: welcome.jpg
+active: false
 design:
   columns: "1"
   css_style: null
   css_class: null
   background:
-    image: intelligo_logo_medio.png
+    image: ""
+hero_media: welcome.jpg
 ---
 <br>
+
+![](intelligo_logo_medio.png)
 
 **INTELLIGO labs** is a set of labs related to the development of *intelligent systems*
